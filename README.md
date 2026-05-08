@@ -38,6 +38,3 @@ Durante o desenvolvimento do projeto, foram trabalhados conceitos importantes co
 - Versionamento de código com Git e GitHub;
 - Boas práticas no desenvolvimento server-side.
 
-## Repositório
-
-GitHub: https://github.com/Infinity-exility/Gerador-Podcasts
